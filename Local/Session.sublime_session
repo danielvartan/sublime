@@ -1,0 +1,1350 @@
+{
+	"file_history":
+	[
+		"/home/danielvartan/.config/sublime-text/README.md",
+		"/home/danielvartan/.config/sublime-text/.git/config",
+		"/home/danielvartan/.config/sublime-text/.git/description",
+		"/home/danielvartan/GitHub/starship/.git/config",
+		"/home/danielvartan/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+		"/home/danielvartan/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+		"/home/danielvartan/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+		"/home/danielvartan/.config/sublime-text/Packages/User/Terminus.hidden-color-scheme",
+		"/home/danielvartan/GitHub/starship/README.md",
+		"/home/danielvartan/GitHub/ghostty/config",
+		"/home/danielvartan/.config/ghostty/config",
+		"/home/danielvartan/GitHub/themes/README.md",
+		"/home/danielvartan/.config/nvim/init.lua",
+		"/home/danielvartan/.config/obs-studio/themes/Catppuccin.obt",
+		"/home/danielvartan/.config/nvim/lua/plugins/catpuccin.lua",
+		"/home/danielvartan/.config/sublime-text/Packages/AutoFileName/autofilename.sublime-settings",
+		"/home/danielvartan/.config/nvim/lua/plugins/lspconfig.lua",
+		"/home/danielvartan/.config/nvim/lua/plugins/mason.lua",
+		"/home/danielvartan/.local/share/nvim/lazy/nvim-lspconfig/plugin/lspconfig.lua",
+		"/home/danielvartan/.config/nvim/lua/plugins/auto-session.lua",
+		"/home/danielvartan/.config/sublime-text/Packages/SyncedSideBar/SyncedSideBar.sublime-settings",
+		"/home/danielvartan/.config/sublime-text/Packages/User/SyncedSideBar.sublime-settings",
+		"/home/danielvartan/.config/gtk-4.0/gtk-dark.css",
+		"/home/danielvartan/.config/sublime-text/Packages/User/Catppuccin Macchiato.sublime-color-scheme",
+		"/home/danielvartan/.config/sublime-text/Packages/Catppuccin color schemes/build/Catppuccin Macchiato.sublime-color-scheme",
+		"/home/danielvartan/.config/gtk-3.0/gtk-dark.css",
+		"/home/danielvartan/.config/sublime-text/Packages/MarkdownPreview/MarkdownPreview.sublime-settings",
+		"/home/danielvartan/.config/sublime-text/Packages/User/MarkdownPreview.sublime-settings",
+		"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[PL].md",
+		"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[T].md",
+		"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[SG].md",
+		"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[A].md",
+		"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[ABM].md",
+		"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[M].md",
+		"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[S].md",
+		"/home/danielvartan/.config/gtk-4.0/gtk.gresource",
+		"/home/danielvartan/.themes/catppuccin-macchiato-mauve-standard+default/catppuccin-macchiato-mauve-standard+default/index.theme",
+		"/home/danielvartan/.config/sublime-text/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[_C].sh",
+		"/home/danielvartan/.config/nvim/lua/plugins/rose-pine.lua",
+		"/home/danielvartan/GitHub/ulauncher/README.md",
+		"/home/danielvartan/.bashrc",
+		"/home/danielvartan/GitHub/starship/starship.toml",
+		"/home/danielvartan/.config/starship.toml",
+		"/home/danielvartan/GitHub/ghostty/README.md",
+		"/home/danielvartan/GitHub/starship/palettes/catppuccin-macchiato.toml",
+		"/home/danielvartan/GitHub/starship/palettes/apple-dark.toml",
+		"/home/danielvartan/GitHub/ghostty/themes/catppuccin-macchiato.conf",
+		"/home/danielvartan/.config/ghostty/themes/catppuccin-macchiato.conf",
+		"/home/danielvartan/GitHub/starship/palettes/catppuccin-mocha.toml",
+		"/home/danielvartan/GitHub/starship/palettes/catppuccin-frappe.toml",
+		"/home/danielvartan/GitHub/starship/palettes/catppuccin-latte.toml",
+		"/home/danielvartan/GitHub/ghostty/LICENSE.md",
+		"/home/danielvartan/GitHub/ghostty/.git/config",
+		"/home/danielvartan/.config/ulauncher/settings.json",
+		"/home/danielvartan/.config/ulauncher/extensions.json",
+		"/home/danielvartan/.config/ulauncher/user-themes/danielvartan/manifest.json",
+		"/home/danielvartan/.config/ulauncher/user-themes/danielvartan/theme.css",
+		"/home/danielvartan/.config/sublime-text/Packages/Color Highlight/Color Highlight.sublime-settings",
+		"/home/danielvartan/.config/sublime-text/Packages/User/Color Highlight.sublime-settings",
+		"/home/danielvartan/.config/sublime-text/Packages/User/Git.sublime-settings",
+		"/home/danielvartan/GitHub/ulauncher/theme/theme.css",
+		"/home/danielvartan/GitHub/ulauncher/theme/manifest.json",
+		"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/manifest.json",
+		"/home/danielvartan/.config/ulauncher/user-themes/Catppuccin-Mocha-Mauve/manifest.json",
+		"/home/danielvartan/.config/ulauncher/user-themes/nord/manifest.json",
+		"/home/danielvartan/GitHub/ulauncher/.git/config",
+		"/home/danielvartan/GitHub/rose-pine-starship/rose-pine-moon.toml",
+		"/home/danielvartan/GitHub/rose-pine-starship/rose-pine.toml",
+		"/home/danielvartan/GitHub/starship/LICENSE.md",
+		"/home/danielvartan/Downloads/gruvbox-rainbow.toml",
+		"/home/danielvartan/GitHub/sqlr/.git/config",
+		"/home/danielvartan/.config/sublime-text/Packages/Color Scheme - Default/Mariana.sublime-color-scheme",
+		"/home/danielvartan/.config/sublime-text/Packages/User/Mariana.sublime-color-scheme",
+		"/home/danielvartan/GitHub/gtk-theme/README.md",
+		"/home/danielvartan/.themes/danielvartan/gtk-3.0/gtk-dark.css",
+		"/home/danielvartan/GitHub/argus/.git/config",
+		"/home/danielvartan/.themes/danielvartan/gtk-3.0/gtk.css",
+		"/home/danielvartan/.themes/danielvartan/gnome-shell/gnome-shell.css",
+		"/home/danielvartan/.themes/danielvartan/gtk-4.0/gtk-dark.css",
+		"/home/danielvartan/.themes/danielvartan/gtk-2.0/gtkrc",
+		"/home/danielvartan/.themes/danielvartan/gtk-2.0/xfce-notify.rc",
+		"/home/danielvartan/.themes/danielvartan/gtk-2.0/panel.rc",
+		"/home/danielvartan/.themes/danielvartan/gtk-2.0/menubar-toolbar.rc",
+		"/home/danielvartan/.themes/danielvartan/gtk-2.0/main.rc",
+		"/home/danielvartan/.themes/danielvartan/gtk-2.0/apps.rc",
+		"/home/danielvartan/.themes/danielvartan/gtk-4.0/gtk.css",
+		"/home/danielvartan/.themes/danielvartan/index.theme",
+		"/home/danielvartan/.icons/MacTahoe-grey-dark/COPYING",
+		"/home/danielvartan/.icons/MacTahoe-grey-dark/AUTHORS",
+		"/home/danielvartan/.themes/danielvartan/plank/dock.theme",
+		"/home/danielvartan/.themes/MacTahoe-Dark-grey-CUSTOMIZED/gnome-shell/pad-osd.css",
+		"/home/danielvartan/.themes/MacTahoe-Dark-grey-CUSTOMIZED/gnome-shell/gnome-shell.css",
+		"/home/danielvartan/GitHub/gtk-theme/icons/index.theme",
+		"/home/danielvartan/GitHub/gtk-theme/cursors/index.theme",
+		"/home/danielvartan/.local/share/icons/WhiteSur-cursors/index.theme",
+		"/home/danielvartan/.local/share/icons/danielvartan/index.theme",
+		"/home/danielvartan/GitHub/gtk-theme/_temp/README.md",
+		"/home/danielvartan/GitHub/gtk-theme/.git/config",
+		"/home/danielvartan/GitHub/iramuteqlike/.git/config",
+		"/home/danielvartan/GitHub/gtk-theme/theme/plank/dock.theme",
+		"/home/danielvartan/.themes/Custom/index.theme",
+		"/home/danielvartan/.themes/MacTahoe-Dark-grey-CUSTOMIZED/index.theme",
+		"/home/danielvartan/.themes/danielvartan/gnome-shell/pad-osd.css",
+		"/home/danielvartan/GitHub/whatsapp/index.qmd",
+		"/home/danielvartan/GitHub/iramuteqlike/R/plot_word_cloud.R",
+		"/home/danielvartan/.config/sublime-text/Packages/LSP/LSP.sublime-settings",
+		"/home/danielvartan/.config/sublime-text/Packages/User/LSP.sublime-settings",
+		"/home/danielvartan/.themes/MacTahoe-Dark-grey/gtk-3.0/gtk-dark.css",
+		"/home/danielvartan/.config/ulauncher/user-themes/liquid-glass-dark/theme.css",
+		"/home/danielvartan/GitHub/MacTahoe-gtk-theme/src/assets/gnome-shell/make-assets.sh",
+		"/home/danielvartan/GitHub/MacTahoe-gtk-theme/src/sass/_colors.scss",
+		"/home/danielvartan/GitHub/MacTahoe-gtk-theme/wallpaper/MacTahoe.xml",
+		"/home/danielvartan/GitHub/MacTahoe-gtk-theme/wallpaper/install-gnome-backgrounds.sh",
+		"/home/danielvartan/.themes/MacTahoe-Dark-grey/index.theme",
+		"/home/danielvartan/GitHub/MacTahoe-gtk-theme/tweaks.sh",
+		"/home/danielvartan/GitHub/MacTahoe-gtk-theme/install.sh",
+		"/home/danielvartan/GitHub/starship/rose-pine.toml",
+		"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/theme.css",
+		"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/theme-gtk-3.20.css",
+		"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/theme-gtk-3.20.css",
+		"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/generated.css",
+		"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/theme.css",
+		"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/manifest.json",
+		"/home/danielvartan/GitHub/starship/rose-pine-moon.toml",
+		"/home/danielvartan/GitHub/starship/rose-pine-dawn.toml",
+		"/home/danielvartan/.config/nvim/lua/plugins/telescope.lua",
+		"/home/danielvartan/.config/nvim/lua/plugins/copilot.lua"
+	],
+	"folder_history":
+	[
+		"/home/danielvartan/GitHub/amanda",
+		"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks"
+	],
+	"last_version": 4200,
+	"last_window_id": 53,
+	"log_indexing": false,
+	"next_update_check": 1751972966,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 866.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			940.0,
+			152.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"command",
+						"command_2"
+					],
+					[
+						"re",
+						"renv"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"UI: ",
+						"UI: Select Theme"
+					],
+					[
+						"custom",
+						"UI: Customize Color Scheme"
+					],
+					[
+						"col",
+						"UI: Select Color Scheme"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"markd",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"toggle termi",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"Terminus",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"thme",
+						"UI: Select Theme"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"color sch",
+						"UI: Select Color Scheme"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"package control in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[S].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[M].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[ABM].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[A].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[SG].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[T].md",
+				"/home/danielvartan/.config/sublime-text/README.md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[PL].md",
+				"/home/danielvartan/.config/sublime-text/.git/config",
+				"/home/danielvartan/.config/sublime-text/.git/description",
+				"/home/danielvartan/GitHub/starship/.git/config",
+				"/home/danielvartan/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+				"/home/danielvartan/GitHub/starship/README.md",
+				"/home/danielvartan/GitHub/ghostty/config",
+				"/home/danielvartan/.config/ghostty/config",
+				"/home/danielvartan/GitHub/themes/README.md",
+				"/home/danielvartan/.config/nvim/init.lua",
+				"/home/danielvartan/.config/obs-studio/themes/Catppuccin.obt",
+				"/home/danielvartan/.config/nvim/lua/plugins/catpuccin.lua",
+				"/home/danielvartan/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/danielvartan/.config/sublime-text/Packages/AutoFileName/autofilename.sublime-settings",
+				"/home/danielvartan/.config/nvim/lua/plugins/lspconfig.lua",
+				"/home/danielvartan/.config/nvim/lua/plugins/mason.lua",
+				"/home/danielvartan/.local/share/nvim/lazy/nvim-lspconfig/plugin/lspconfig.lua",
+				"/home/danielvartan/.config/nvim/lua/plugins/auto-session.lua",
+				"/home/danielvartan/.config/gtk-4.0/gtk-dark.css",
+				"/home/danielvartan/.config/gtk-3.0/gtk-dark.css",
+				"/home/danielvartan/.config/gtk-4.0/gtk.gresource",
+				"/home/danielvartan/.themes/catppuccin-macchiato-mauve-standard+default/catppuccin-macchiato-mauve-standard+default/index.theme",
+				"/home/danielvartan/.config/sublime-text/Packages/User/MarkdownPreview.sublime-settings",
+				"/home/danielvartan/.config/sublime-text/Packages/MarkdownPreview/MarkdownPreview.sublime-settings",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[_C].sh",
+				"/home/danielvartan/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/danielvartan/.config/nvim/lua/plugins/rose-pine.lua",
+				"/home/danielvartan/GitHub/ulauncher/README.md",
+				"/home/danielvartan/.bashrc",
+				"/home/danielvartan/GitHub/starship/starship.toml",
+				"/home/danielvartan/.config/starship.toml",
+				"/home/danielvartan/GitHub/ghostty/README.md",
+				"/home/danielvartan/GitHub/starship/palettes/catppuccin-macchiato.toml",
+				"/home/danielvartan/GitHub/starship/palettes/apple-dark.toml",
+				"/home/danielvartan/GitHub/ghostty/themes/catppuccin-macchiato.conf",
+				"/home/danielvartan/.config/ghostty/themes/catppuccin-macchiato.conf",
+				"/home/danielvartan/GitHub/starship/palettes/catppuccin-mocha.toml",
+				"/home/danielvartan/GitHub/starship/palettes/catppuccin-frappe.toml",
+				"/home/danielvartan/GitHub/starship/palettes/catppuccin-latte.toml",
+				"/home/danielvartan/GitHub/ghostty/LICENSE.md",
+				"/home/danielvartan/GitHub/ghostty/.git/config",
+				"/home/danielvartan/.config/ulauncher/settings.json",
+				"/home/danielvartan/.config/ulauncher/extensions.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/danielvartan/manifest.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/danielvartan/theme.css",
+				"/home/danielvartan/.config/sublime-text/Packages/User/Git.sublime-settings",
+				"/home/danielvartan/GitHub/ulauncher/theme/theme.css",
+				"/home/danielvartan/GitHub/ulauncher/theme/manifest.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/manifest.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/Catppuccin-Mocha-Mauve/manifest.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/nord/manifest.json",
+				"/home/danielvartan/GitHub/ulauncher/.git/config",
+				"/home/danielvartan/GitHub/rose-pine-starship/rose-pine-moon.toml",
+				"/home/danielvartan/GitHub/rose-pine-starship/rose-pine.toml",
+				"/home/danielvartan/GitHub/starship/LICENSE.md",
+				"/home/danielvartan/Downloads/gruvbox-rainbow.toml",
+				"/home/danielvartan/GitHub/sqlr/.git/config",
+				"/home/danielvartan/GitHub/gtk-theme/README.md",
+				"/home/danielvartan/.themes/danielvartan/gtk-3.0/gtk-dark.css",
+				"/home/danielvartan/GitHub/argus/.git/config",
+				"/home/danielvartan/.themes/danielvartan/gtk-3.0/gtk.css",
+				"/home/danielvartan/.themes/danielvartan/gnome-shell/gnome-shell.css",
+				"/home/danielvartan/.themes/danielvartan/gtk-4.0/gtk-dark.css",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/gtkrc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/xfce-notify.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/panel.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/menubar-toolbar.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/main.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/apps.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-4.0/gtk.css",
+				"/home/danielvartan/.themes/danielvartan/index.theme",
+				"/home/danielvartan/.icons/MacTahoe-grey-dark/COPYING",
+				"/home/danielvartan/.icons/MacTahoe-grey-dark/AUTHORS",
+				"/home/danielvartan/.themes/danielvartan/plank/dock.theme",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey-CUSTOMIZED/gnome-shell/pad-osd.css",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey-CUSTOMIZED/gnome-shell/gnome-shell.css",
+				"/home/danielvartan/GitHub/gtk-theme/icons/index.theme",
+				"/home/danielvartan/GitHub/gtk-theme/cursors/index.theme",
+				"/home/danielvartan/.local/share/icons/WhiteSur-cursors/index.theme",
+				"/home/danielvartan/.local/share/icons/danielvartan/index.theme",
+				"/home/danielvartan/GitHub/gtk-theme/_temp/README.md",
+				"/home/danielvartan/GitHub/gtk-theme/.git/config",
+				"/home/danielvartan/GitHub/iramuteqlike/.git/config",
+				"/home/danielvartan/GitHub/gtk-theme/theme/plank/dock.theme",
+				"/home/danielvartan/.themes/Custom/index.theme",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey-CUSTOMIZED/index.theme",
+				"/home/danielvartan/.themes/danielvartan/gnome-shell/pad-osd.css",
+				"/home/danielvartan/GitHub/whatsapp/index.qmd",
+				"/home/danielvartan/GitHub/iramuteqlike/R/plot_word_cloud.R",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey/gtk-3.0/gtk-dark.css",
+				"/home/danielvartan/.config/ulauncher/user-themes/liquid-glass-dark/theme.css",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/src/assets/gnome-shell/make-assets.sh",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/src/sass/_colors.scss",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/wallpaper/MacTahoe.xml",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/wallpaper/install-gnome-backgrounds.sh",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey/index.theme",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/tweaks.sh",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/install.sh",
+				"/home/danielvartan/GitHub/starship/rose-pine.toml",
+				"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/theme.css",
+				"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/theme-gtk-3.20.css",
+				"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/theme-gtk-3.20.css",
+				"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/generated.css",
+				"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/theme.css",
+				"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/manifest.json",
+				"/home/danielvartan/GitHub/starship/rose-pine-moon.toml",
+				"/home/danielvartan/GitHub/starship/rose-pine-dawn.toml",
+				"/home/danielvartan/.config/nvim/lua/plugins/telescope.lua",
+				"/home/danielvartan/.config/nvim/lua/plugins/copilot.lua",
+				"/home/danielvartan/GitHub/themes/ulauncher/manifest.json",
+				"/home/danielvartan/GitHub/themes/ulauncher/theme.css",
+				"/home/danielvartan/.config/nvim/lua/plugins/gitsigns.lua",
+				"/home/danielvartan/.tmux.conf",
+				"/home/danielvartan/.config/nvim/lua/plugins/nvim-tree.lua",
+				"/home/danielvartan/.config/nvim/lua/plugins/plenary.lua",
+				"/home/danielvartan/.tmux/plugins/tpm/tpm",
+				"/home/danielvartan/.tmux/plugins/tmux/rose-pine.tmux",
+				"/home/danielvartan/GitHub/themes/starship/starship.toml",
+				"/home/danielvartan/.config/ulauncher/user-themes/Catppuccin-Mocha-Mauve/theme.css",
+				"/home/danielvartan/.config/nvim/lua/config/lazy.lua",
+				"/home/danielvartan/GitHub/brands/mastersthesis/_brand.yml"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"@keyframes ripple-on-headerbar",
+					"window",
+					"#desktopwindow"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.exec":
+			{
+				"height": 189.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 181.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 913.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"command",
+						"command_2"
+					],
+					[
+						"re",
+						"renv"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "[PL].md",
+					"settings":
+					{
+						"buffer_size": 11766,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"file": "/home/danielvartan/.config/sublime-text/README.md",
+					"settings":
+					{
+						"buffer_size": 562,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				},
+				{
+					"file": "[T].md",
+					"settings":
+					{
+						"buffer_size": 38088,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "[SG].md",
+					"settings":
+					{
+						"buffer_size": 18358,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "[A].md",
+					"settings":
+					{
+						"buffer_size": 6548,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "[ABM].md",
+					"settings":
+					{
+						"buffer_size": 2487,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "[M].md",
+					"settings":
+					{
+						"buffer_size": 3290,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "[S].md",
+					"settings":
+					{
+						"buffer_size": 661,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"instal",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove p",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"UI: ",
+						"UI: Select Theme"
+					],
+					[
+						"custom",
+						"UI: Customize Color Scheme"
+					],
+					[
+						"col",
+						"UI: Select Color Scheme"
+					],
+					[
+						"the",
+						"UI: Select Theme"
+					],
+					[
+						"livereload",
+						"LiveReload: Enable/disable plug-ins"
+					],
+					[
+						"markd",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"toggle termi",
+						"Terminus: Toggle Panel"
+					],
+					[
+						"Terminus",
+						"Terminus: Open Default Shell in Panel"
+					],
+					[
+						"package ins",
+						"Package Control: Install Package"
+					],
+					[
+						"markdown",
+						"Markdown Preview: Preview in Browser"
+					],
+					[
+						"color",
+						"UI: Select Color Scheme"
+					],
+					[
+						"thme",
+						"UI: Select Theme"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"theme",
+						"UI: Select Theme"
+					],
+					[
+						"pack",
+						"Package Control: Remove Package"
+					],
+					[
+						"word",
+						"Word Wrap: Toggle"
+					],
+					[
+						"packa",
+						"Package Control: Remove Package"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"colo",
+						"UI: Select Color Scheme"
+					],
+					[
+						"pac",
+						"Package Control: Remove Package"
+					],
+					[
+						"color sch",
+						"UI: Select Color Scheme"
+					],
+					[
+						"them",
+						"UI: Select Theme"
+					],
+					[
+						"package control in",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks"
+			],
+			"file_history":
+			[
+				"/home/danielvartan/.config/sublime-text/README.md",
+				"/home/danielvartan/.config/sublime-text/.git/config",
+				"/home/danielvartan/.config/sublime-text/.git/description",
+				"/home/danielvartan/GitHub/starship/.git/config",
+				"/home/danielvartan/.config/sublime-text/Packages/User/Default (Linux).sublime-keymap",
+				"/home/danielvartan/GitHub/starship/README.md",
+				"/home/danielvartan/GitHub/ghostty/config",
+				"/home/danielvartan/.config/ghostty/config",
+				"/home/danielvartan/GitHub/themes/README.md",
+				"/home/danielvartan/.config/nvim/init.lua",
+				"/home/danielvartan/.config/obs-studio/themes/Catppuccin.obt",
+				"/home/danielvartan/.config/nvim/lua/plugins/catpuccin.lua",
+				"/home/danielvartan/.config/sublime-text/Packages/User/Preferences.sublime-settings",
+				"/home/danielvartan/.config/sublime-text/Packages/AutoFileName/autofilename.sublime-settings",
+				"/home/danielvartan/.config/nvim/lua/plugins/lspconfig.lua",
+				"/home/danielvartan/.config/nvim/lua/plugins/mason.lua",
+				"/home/danielvartan/.local/share/nvim/lazy/nvim-lspconfig/plugin/lspconfig.lua",
+				"/home/danielvartan/.config/nvim/lua/plugins/auto-session.lua",
+				"/home/danielvartan/.config/gtk-4.0/gtk-dark.css",
+				"/home/danielvartan/.config/gtk-3.0/gtk-dark.css",
+				"/home/danielvartan/.config/gtk-4.0/gtk.gresource",
+				"/home/danielvartan/.themes/catppuccin-macchiato-mauve-standard+default/catppuccin-macchiato-mauve-standard+default/index.theme",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[S].md",
+				"/home/danielvartan/.config/sublime-text/Packages/User/MarkdownPreview.sublime-settings",
+				"/home/danielvartan/.config/sublime-text/Packages/MarkdownPreview/MarkdownPreview.sublime-settings",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[M].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[T].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[A].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[ABM].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[SG].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[PL].md",
+				"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/[_C].sh",
+				"/home/danielvartan/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
+				"/home/danielvartan/.config/nvim/lua/plugins/rose-pine.lua",
+				"/home/danielvartan/GitHub/ulauncher/README.md",
+				"/home/danielvartan/.bashrc",
+				"/home/danielvartan/GitHub/starship/starship.toml",
+				"/home/danielvartan/.config/starship.toml",
+				"/home/danielvartan/GitHub/ghostty/README.md",
+				"/home/danielvartan/GitHub/starship/palettes/catppuccin-macchiato.toml",
+				"/home/danielvartan/GitHub/starship/palettes/apple-dark.toml",
+				"/home/danielvartan/GitHub/ghostty/themes/catppuccin-macchiato.conf",
+				"/home/danielvartan/.config/ghostty/themes/catppuccin-macchiato.conf",
+				"/home/danielvartan/GitHub/starship/palettes/catppuccin-mocha.toml",
+				"/home/danielvartan/GitHub/starship/palettes/catppuccin-frappe.toml",
+				"/home/danielvartan/GitHub/starship/palettes/catppuccin-latte.toml",
+				"/home/danielvartan/GitHub/ghostty/LICENSE.md",
+				"/home/danielvartan/GitHub/ghostty/.git/config",
+				"/home/danielvartan/.config/ulauncher/settings.json",
+				"/home/danielvartan/.config/ulauncher/extensions.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/danielvartan/manifest.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/danielvartan/theme.css",
+				"/home/danielvartan/.config/sublime-text/Packages/User/Git.sublime-settings",
+				"/home/danielvartan/GitHub/ulauncher/theme/theme.css",
+				"/home/danielvartan/GitHub/ulauncher/theme/manifest.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/manifest.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/Catppuccin-Mocha-Mauve/manifest.json",
+				"/home/danielvartan/.config/ulauncher/user-themes/nord/manifest.json",
+				"/home/danielvartan/GitHub/ulauncher/.git/config",
+				"/home/danielvartan/GitHub/rose-pine-starship/rose-pine-moon.toml",
+				"/home/danielvartan/GitHub/rose-pine-starship/rose-pine.toml",
+				"/home/danielvartan/GitHub/starship/LICENSE.md",
+				"/home/danielvartan/Downloads/gruvbox-rainbow.toml",
+				"/home/danielvartan/GitHub/sqlr/.git/config",
+				"/home/danielvartan/GitHub/gtk-theme/README.md",
+				"/home/danielvartan/.themes/danielvartan/gtk-3.0/gtk-dark.css",
+				"/home/danielvartan/GitHub/argus/.git/config",
+				"/home/danielvartan/.themes/danielvartan/gtk-3.0/gtk.css",
+				"/home/danielvartan/.themes/danielvartan/gnome-shell/gnome-shell.css",
+				"/home/danielvartan/.themes/danielvartan/gtk-4.0/gtk-dark.css",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/gtkrc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/xfce-notify.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/panel.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/menubar-toolbar.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/main.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-2.0/apps.rc",
+				"/home/danielvartan/.themes/danielvartan/gtk-4.0/gtk.css",
+				"/home/danielvartan/.themes/danielvartan/index.theme",
+				"/home/danielvartan/.icons/MacTahoe-grey-dark/COPYING",
+				"/home/danielvartan/.icons/MacTahoe-grey-dark/AUTHORS",
+				"/home/danielvartan/.themes/danielvartan/plank/dock.theme",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey-CUSTOMIZED/gnome-shell/pad-osd.css",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey-CUSTOMIZED/gnome-shell/gnome-shell.css",
+				"/home/danielvartan/GitHub/gtk-theme/icons/index.theme",
+				"/home/danielvartan/GitHub/gtk-theme/cursors/index.theme",
+				"/home/danielvartan/.local/share/icons/WhiteSur-cursors/index.theme",
+				"/home/danielvartan/.local/share/icons/danielvartan/index.theme",
+				"/home/danielvartan/GitHub/gtk-theme/_temp/README.md",
+				"/home/danielvartan/GitHub/gtk-theme/.git/config",
+				"/home/danielvartan/GitHub/iramuteqlike/.git/config",
+				"/home/danielvartan/GitHub/gtk-theme/theme/plank/dock.theme",
+				"/home/danielvartan/.themes/Custom/index.theme",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey-CUSTOMIZED/index.theme",
+				"/home/danielvartan/.themes/danielvartan/gnome-shell/pad-osd.css",
+				"/home/danielvartan/GitHub/whatsapp/index.qmd",
+				"/home/danielvartan/GitHub/iramuteqlike/R/plot_word_cloud.R",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey/gtk-3.0/gtk-dark.css",
+				"/home/danielvartan/.config/ulauncher/user-themes/liquid-glass-dark/theme.css",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/src/assets/gnome-shell/make-assets.sh",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/src/sass/_colors.scss",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/wallpaper/MacTahoe.xml",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/wallpaper/install-gnome-backgrounds.sh",
+				"/home/danielvartan/.themes/MacTahoe-Dark-grey/index.theme",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/tweaks.sh",
+				"/home/danielvartan/GitHub/MacTahoe-gtk-theme/install.sh",
+				"/home/danielvartan/GitHub/starship/rose-pine.toml",
+				"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/theme.css",
+				"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/theme-gtk-3.20.css",
+				"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/theme-gtk-3.20.css",
+				"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/generated.css",
+				"/home/danielvartan/.config/ulauncher/user-themes/rose-pine-moon/theme.css",
+				"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/manifest.json",
+				"/home/danielvartan/GitHub/starship/rose-pine-moon.toml",
+				"/home/danielvartan/GitHub/starship/rose-pine-dawn.toml",
+				"/home/danielvartan/.config/nvim/lua/plugins/telescope.lua",
+				"/home/danielvartan/.config/nvim/lua/plugins/copilot.lua",
+				"/home/danielvartan/GitHub/themes/ulauncher/manifest.json",
+				"/home/danielvartan/GitHub/themes/ulauncher/theme.css",
+				"/home/danielvartan/.config/nvim/lua/plugins/gitsigns.lua",
+				"/home/danielvartan/.tmux.conf",
+				"/home/danielvartan/.config/nvim/lua/plugins/nvim-tree.lua",
+				"/home/danielvartan/.config/nvim/lua/plugins/plenary.lua",
+				"/home/danielvartan/.tmux/plugins/tpm/tpm",
+				"/home/danielvartan/.tmux/plugins/tmux/rose-pine.tmux",
+				"/home/danielvartan/GitHub/themes/starship/starship.toml",
+				"/home/danielvartan/.config/ulauncher/user-themes/Catppuccin-Mocha-Mauve/theme.css",
+				"/home/danielvartan/.config/nvim/lua/config/lazy.lua",
+				"/home/danielvartan/GitHub/brands/mastersthesis/_brand.yml"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 116.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"@keyframes ripple-on-headerbar",
+					"window",
+					"#desktopwindow"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": true,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "[PL].md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 11766,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										170,
+										170
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///home/danielvartan/Insync/danvartan%40gmail.com/Google%20Drive/Obsidian/Tasks/%5BPL%5D.md",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/danielvartan/.config/sublime-text/README.md",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 562,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										562,
+										562
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///home/danielvartan/.config/sublime-text/README.md",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "[T].md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 38088,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///home/danielvartan/Insync/danvartan%40gmail.com/Google%20Drive/Obsidian/Tasks/%5BT%5D.md",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "[SG].md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 18358,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///home/danielvartan/Insync/danvartan%40gmail.com/Google%20Drive/Obsidian/Tasks/%5BSG%5D.md",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "[A].md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6548,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										272,
+										308
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///home/danielvartan/Insync/danvartan%40gmail.com/Google%20Drive/Obsidian/Tasks/%5BA%5D.md",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "[ABM].md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2487,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///home/danielvartan/Insync/danvartan%40gmail.com/Google%20Drive/Obsidian/Tasks/%5BABM%5D.md",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 6,
+							"file": "[M].md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3290,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///home/danielvartan/Insync/danvartan%40gmail.com/Google%20Drive/Obsidian/Tasks/%5BM%5D.md",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 6,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 7,
+							"file": "[S].md",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 661,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"lsp_uri": "file:///home/danielvartan/Insync/danvartan%40gmail.com/Google%20Drive/Obsidian/Tasks/%5BS%5D.md",
+									"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 7,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.LSP Log Panel":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.diagnostics":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"output.exec":
+			{
+				"height": 189.0,
+				"history":
+				[
+				]
+			},
+			"output.find_results":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,940,75,1853,941,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"lsp_show_inlay_hints": false
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 181.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 48,
+			"workspace_name": "/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/main.sublime-workspace"
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/danielvartan/Insync/danvartan@gmail.com/Google Drive/Obsidian/Tasks/main.sublime-workspace",
+			"/home/danielvartan/GitHub/amanda/amanda.sublime-workspace"
+		]
+	}
+}
