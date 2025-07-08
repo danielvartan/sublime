@@ -1,6 +1,7 @@
 {
 	"file_history":
 	[
+		"/home/danielvartan/.config/sublime-text/.gitignore",
 		"/home/danielvartan/.config/sublime-text/README.md",
 		"/home/danielvartan/.config/sublime-text/.git/config",
 		"/home/danielvartan/.config/sublime-text/.git/description",
@@ -127,8 +128,7 @@
 		"/home/danielvartan/GitHub/rose-pine-ulauncher/dist/rose-pine-moon/manifest.json",
 		"/home/danielvartan/GitHub/starship/rose-pine-moon.toml",
 		"/home/danielvartan/GitHub/starship/rose-pine-dawn.toml",
-		"/home/danielvartan/.config/nvim/lua/plugins/telescope.lua",
-		"/home/danielvartan/.config/nvim/lua/plugins/copilot.lua"
+		"/home/danielvartan/.config/nvim/lua/plugins/telescope.lua"
 	],
 	"folder_history":
 	[
@@ -586,29 +586,117 @@
 					"file": "/home/danielvartan/.config/sublime-text/.gitignore",
 					"settings":
 					{
-						"buffer_size": 14,
+						"buffer_size": 28,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
 						[
-							7,
-							1,
-							"",
-							null,
-							"AQAAAAAAAAAAAAAADQAAAAAAAABIAgAAIyBzdWJsaW1lCgo8IS0tIGJhZGdlczogc3RhcnQgLS0+ClshW1Byb2plY3QgU3RhdHVzOiBBY3RpdmUg4oCTIFRoZSBwcm9qZWN0IGhhcyByZWFjaGVkIGEgc3RhYmxlLCB1c2FibGUgc3RhdGUgYW5kIGlzIGJlaW5nIGFjdGl2ZWx5IGRldmVsb3BlZC5dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUmVwbyUyMFN0YXR1cy1BY3RpdmUtMTBEODEwLnN2ZyldKGh0dHBzOi8vd3d3LnJlcG9zdGF0dXMub3JnLyNhY3RpdmUpClshW0xpY2Vuc2U6IENDMC0xLjBdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGljZW5zZS1DQzBfMS4wLWxpZ2h0Z3JleS5zdmcpXShodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9wdWJsaWNkb21haW4vemVyby8xLjAvKQo8IS0tIGJhZGdlczogZW5kIC0tPgoKIyMgT3ZlcnZpZXcKCk15IFtTdWJsaW1lIFRleHRdKGh0dHBzOi8vd3d3LnN1YmxpbWV0ZXh0LmNvbS8pIGNvbmZpZ3VyYXRpb24gZmlsZXMuIOKame+4j/Cfn6cKCiMjIEluc3RhbGxhdGlvbgoKMS4gQ29weSB0aGUgcmVwb3NpdG9yeSBmaWxlcyB0byBgJEhPTUUvLmNvbmZpZy9zdWJsaW1lLXRleHRgLgoKVGhhdCdzIGl0IQo",
-							"AQAAAAAAAAABAAAAAAAAAAAAAAA/AgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							10,
+							2,
 							1,
 							"insert",
 							{
 								"characters": "\n"
 							},
-							"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "/Li"
+							},
+							"AwAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "b/"
+							},
+							"AgAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAwAAAAAAAAADAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							2,
+							"right_delete",
+							null,
+							"AgAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAL0xpYi8AAAAAAAAAAAAAAAAAAAAAAQAAAAo",
+							"AQAAAAAAAAABAAAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							11,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							13,
+							1,
+							"insert",
+							{
+								"characters": "/Lib/"
+							},
+							"BQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							19,
+							1,
+							"left_delete",
+							null,
+							"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAYAAAAAAAAABwAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							23,
+							1,
+							"insert",
+							{
+								"characters": "/Local/"
+							},
+							"BwAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACgAAAAAAAAAAAAAACgAAAAAAAAALAAAAAAAAAAAAAAALAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAADQAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABgAAAAAAAAAGAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							29,
+							1,
+							"sort_lines",
+							{
+								"case_sensitive": false
+							},
+							"AQAAAAAAAAAAAAAAGwAAAAAAAAAbAAAAL0xpYi8KL0xvY2FsLwovTG9nLwovVHJhc2gv",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -818,6 +906,7 @@
 			],
 			"file_history":
 			[
+				"/home/danielvartan/.config/sublime-text/.gitignore",
 				"/home/danielvartan/.config/sublime-text/README.md",
 				"/home/danielvartan/.config/sublime-text/.git/config",
 				"/home/danielvartan/.config/sublime-text/.git/description",
@@ -944,8 +1033,7 @@
 				"/home/danielvartan/.tmux/plugins/tmux/rose-pine.tmux",
 				"/home/danielvartan/GitHub/themes/starship/starship.toml",
 				"/home/danielvartan/.config/ulauncher/user-themes/Catppuccin-Mocha-Mauve/theme.css",
-				"/home/danielvartan/.config/nvim/lua/config/lazy.lua",
-				"/home/danielvartan/GitHub/brands/mastersthesis/_brand.yml"
+				"/home/danielvartan/.config/nvim/lua/config/lazy.lua"
 			],
 			"find":
 			{
@@ -1032,15 +1120,15 @@
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 14,
+								"buffer_size": 28,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										14,
-										14
+										28,
+										28
 									]
 								],
 								"settings":
