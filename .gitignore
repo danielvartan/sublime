@@ -1,6 +1,8 @@
 *
+
 !/Installed Packages/
-!/Packages/
+!/Packages/User/
+!/Packages/User/**
 !/LICENSE.md
 !/README.md
 !.gitignore
