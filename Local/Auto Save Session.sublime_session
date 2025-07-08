@@ -583,15 +583,33 @@
 					}
 				},
 				{
-					"file": "/home/danielvartan/.config/sublime-text/README.md",
+					"file": "/home/danielvartan/.config/sublime-text/.gitignore",
 					"settings":
 					{
-						"buffer_size": 575,
+						"buffer_size": 14,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
+						[
+							7,
+							1,
+							"",
+							null,
+							"AQAAAAAAAAAAAAAADQAAAAAAAABIAgAAIyBzdWJsaW1lCgo8IS0tIGJhZGdlczogc3RhcnQgLS0+ClshW1Byb2plY3QgU3RhdHVzOiBBY3RpdmUg4oCTIFRoZSBwcm9qZWN0IGhhcyByZWFjaGVkIGEgc3RhYmxlLCB1c2FibGUgc3RhdGUgYW5kIGlzIGJlaW5nIGFjdGl2ZWx5IGRldmVsb3BlZC5dKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvUmVwbyUyMFN0YXR1cy1BY3RpdmUtMTBEODEwLnN2ZyldKGh0dHBzOi8vd3d3LnJlcG9zdGF0dXMub3JnLyNhY3RpdmUpClshW0xpY2Vuc2U6IENDMC0xLjBdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvTGljZW5zZS1DQzBfMS4wLWxpZ2h0Z3JleS5zdmcpXShodHRwOi8vY3JlYXRpdmVjb21tb25zLm9yZy9wdWJsaWNkb21haW4vemVyby8xLjAvKQo8IS0tIGJhZGdlczogZW5kIC0tPgoKIyMgT3ZlcnZpZXcKCk15IFtTdWJsaW1lIFRleHRdKGh0dHBzOi8vd3d3LnN1YmxpbWV0ZXh0LmNvbS8pIGNvbmZpZ3VyYXRpb24gZmlsZXMuIOKame+4j/Cfn6cKCiMjIEluc3RhbGxhdGlvbgoKMS4gQ29weSB0aGUgcmVwb3NpdG9yeSBmaWxlcyB0byBgJEhPTUUvLmNvbmZpZy9zdWJsaW1lLXRleHRgLgoKVGhhdCdzIGl0IQo",
+							"AQAAAAAAAAABAAAAAAAAAAAAAAA/AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAPC/"
+						]
 					]
 				},
 				{
@@ -1009,28 +1027,26 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/danielvartan/.config/sublime-text/README.md",
+							"file": "/home/danielvartan/.config/sublime-text/.gitignore",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 575,
+								"buffer_size": 14,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										575,
-										575
+										14,
+										14
 									]
 								],
 								"settings":
 								{
-									"lsp_uri": "file:///home/danielvartan/.config/sublime-text/README.md",
-									"parser": "github",
-									"syntax": "Packages/Markdown/Markdown.sublime-syntax",
-									"target": "disk"
+									"lsp_uri": "file:///home/danielvartan/.config/sublime-text/.gitignore",
+									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
