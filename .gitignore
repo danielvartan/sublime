@@ -1,4 +1,6 @@
-/Lib/
-/Local/
-/Log/
-/Trash/
+*
+!/Installed Packages/
+!/Packages/
+!/LICENSE.md
+!/README.md
+!.gitignore
